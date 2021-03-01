@@ -6,4 +6,4 @@ echo "Tambah File";
 
 //Contoh Membuat Branch Baru
 
-echo "Buat Branch Baru";
+echo "Membuat Branch Baru";
